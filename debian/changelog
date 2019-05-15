@@ -1,0 +1,5 @@
+nvidia-texture-tools (2.1.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Seth Alves <seth.alves@gmail.com>  Tue, 14 May 2019 17:56:22 -0700
